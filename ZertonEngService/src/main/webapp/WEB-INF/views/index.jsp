@@ -5,8 +5,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
+<style type="text/css">
+ <link href="theam/css/test.css" rel="stylesheet">
+</style>
 </head>
+
 <body>
-wlcomeeeee<a href="web/login">click</a>
+
+wlcomeeeee<a id="test" href="web/login" >click</a>
 </body>
 </html>
